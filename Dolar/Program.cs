@@ -12,7 +12,7 @@ namespace Dolar
         {
             // IOF 4,08 = link do site que peguei a informação 
             //https://agenciabrasil.ebc.com.br/economia/noticia/2021-09/comecam-a-valer-hoje-novas-aliquotas-do-IOF
-            //Cotação atual R$5,607, https://economia.uol.com.br/cotacoes/cambio/
+            //Cotação atual R$5,671, https://economia.uol.com.br/cotacoes/cambio/
             //=====================================================Programa==========================================================
             string cont = "S";
             //Caso o usuario coloque SIM ou S, executa as linhas declaradas dentro do while; do contrário, sai do loop

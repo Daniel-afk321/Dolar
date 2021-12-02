@@ -9,7 +9,7 @@ namespace Dolar
     class ConversorDeMoeda
     {
         //Static pode ser aplicado a variáveis ​​e métodos, tornando-os métodos / variáveis ​
-        public static double Iof = 2.95;
+        public static double Iof = 4.08;
         public static double reais;
 
         //função que retorna a Conversão Do Dolar
